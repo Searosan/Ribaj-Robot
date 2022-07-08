@@ -26,7 +26,7 @@ A Special Group manager Bot to help you to protect and manage your Groups
 <h2>Deploy To Heroku</h2>
 The easiest way to deploy this Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxsupun/Max-Robot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Searosan/Ribaj-Robot.git)
 
 
 
