@@ -58,11 +58,11 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="black", stroke_width=2, stroke_fill="yellow")
     fname2 = "Logo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @Max123robot🇱🇰")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @osmanilogo🇱🇰")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Join with us ~ @SL_Tech_Worldchat  to use this, {e}')
+   await event.reply(f'Join with us ~ @osmanilogo  to use this, {e}')
     
     
 @register(pattern="^/wlogo ?(.*)")
@@ -96,11 +96,11 @@ async def logo(event):
     draw.text((x, y), text, font=font, fill="white", stroke_width=0, stroke_fill="white")
     fname2 = "Logo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @Max123robot🇱🇰")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @osmanilogo🇱🇰")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Join with us ~ @SL_Tech_Worldchat  to use this, {e}')
+   await event.reply(f'Join with us ~ @osmanilogo  to use this, {e}')
 
   
 
@@ -135,11 +135,11 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="black", stroke_width=25, stroke_fill="yellow")
     fname2 = "Logo.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By @Max123robot🇱🇰")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @osmanilogo🇱🇰")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Join with us ~ @SL_Tech_Worldchat  to use this, {e}')
+   await event.reply(f'Join with us ~ @osmanilogo  to use this, {e}')
   
 file_help = os.path.basename(__file__)
 file_help = file_help.replace(".py", "")
@@ -147,7 +147,7 @@ file_helpo = file_help.replace("_", " ")
 
 
 __help__ = """
-@Max123robot🇱🇰
+@RibLentBot🇱🇰
  ❍ /logo text :  Create your logo with your name
  ❍ /nlogo text :  Create your logo with your name
  ❍ /wlogo text :  Create your logo with your name
