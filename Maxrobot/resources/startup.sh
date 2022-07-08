@@ -5,7 +5,7 @@ echo "
 ▒█░░▒█ ▒█░▒█ ▄▀▒▀▄ 　 ▒█░▒█ ▒█▄▄▄█ ▒█▄▄█ ▒█▄▄▄█ ░▒█░░
 
 
-Visit @MaxRobot_updates for updates!!
+Visit @teamosmani for updates!!
 
 
 
