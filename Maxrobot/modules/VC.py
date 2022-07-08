@@ -1,6 +1,6 @@
 
 __help__ =  """
-@Max123Robot🇱🇰
+@RibLentBot🇱🇰
 
 ** VC Music Play🎶 ** 
   Commands 
